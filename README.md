@@ -1,4 +1,4 @@
-# OCR-TextRecognition
+# OCR-TextRejection
 This project extracts the text from an Image using OCR api (url="https://api.ocr.space/parse/image").
 This api can be integrated to reject blacklisted contents in the images uploaded in any of the social 
 media app or website.
